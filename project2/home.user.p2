@@ -1,0 +1,15 @@
+#include <tunables/global>
+/home/henry/p2 flags=(audit) {
+  #include <abstractions/apache2-common>
+  #include <abstractions/base>
+  @{HOME}/home/henry/p2 mr,
+  /proc/version r,
+  /sys/kernel/mm/transparent_hugepage/hpage_pmd_size r,
+  /tmp/ r,
+  /tmp/** rwk,
+  /home/henry/.project2/config rwk,
+  /var/log/syslog r,
+  /etc/timezone r,
+  /proc/uptime r,
+  /etc/hostid r,
+  /home/henry/template r,}
