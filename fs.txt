@@ -1,0 +1,11 @@
+chmod 755 /bin/bash
+chmod 755 /bin/ls
+chmod 4755 /bin/passwd
+chmod 755 /bin/sha1sum
+chmod 755 /sbin/adduser
+chmod 755 /home/bob
+chmod 664 /var/log/lastlog
+chown root:root /var/log/apt
+chown root:root /usr/local/share/man
+--------/etc/resolv.conf is a link in the normal file----------------
+
