@@ -7,5 +7,6 @@ chmod 755 /home/bob
 chmod 664 /var/log/lastlog
 chown root:root /var/log/apt
 chown root:root /usr/local/share/man
+chmod 644 /home/alice/.profile
 --------/etc/resolv.conf is a link in the normal file----------------
 
