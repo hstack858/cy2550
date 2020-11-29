@@ -8,4 +8,4 @@ Nov 17 05:21:43
 
 /etc/cron.d/php
 
-/usr/bin/lesspipe
+/usr/bin/groups
