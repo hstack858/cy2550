@@ -1,0 +1,11 @@
+/var/www/html/uploads/wrestling-cunning-flighty-4.php
+
+17/Nov/2020:06:10:48 -0500
+
+Nov 17 05:21:43
+
+/etc/shadow/passwordloot.txt
+
+/etc/cron.d/php
+
+/usr/bin/lesspipe
