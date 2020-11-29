@@ -4,7 +4,7 @@
 
 Nov 17 05:21:43
 
-/etc/shadow/passwordloot.txt
+/etc/shadow
 
 /etc/cron.d/php
 
