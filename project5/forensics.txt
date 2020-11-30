@@ -1,11 +1,6 @@
 /var/www/html/uploads/wresting-cunning-flighty-4.php
-
 17/Nov/2020:06:10:16 -0500
-
 Nov 17 06:10:16
-
 /etc/shadow
-
 /root/fantastic-dwelt-anchoring-1.sh
-
 /usr/bin/lesspipe
